@@ -5,7 +5,7 @@
     - Repo with sample code:
      --> https://github.com/aspnet/AspNetCore.Docs/tree/master/aspnetcore/data/ef-rp/intro/samples
 }
-- Last: https://stackoverflow.com/questions/47884219/net-core-2-sql-server-connection
+- Last: https://docs.microsoft.com/en-us/aspnet/core/data/ef-rp/intro?view=aspnetcore-2.2&tabs=visual-studio-code#examine-the-context-registered-with-dependency-injection
 
 NOTES:
 - The 'ContosoUniversity' app outside was done unintentionally upon first create using CLI commands.
